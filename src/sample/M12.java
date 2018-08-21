@@ -40,7 +40,6 @@ public class M12 extends Application {
         rectangle.setFill(cycleGrad);
 
         box.getChildren().add(rectangle);
-        //  fdsafasd
         stage.setScene(scene);
         stage.show();
     }
