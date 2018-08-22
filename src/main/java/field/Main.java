@@ -1,4 +1,4 @@
-package field;
+package main.java.field;
 
 import javafx.beans.property.SimpleIntegerProperty;
 import javafx.beans.value.ChangeListener;

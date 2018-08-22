@@ -1,4 +1,4 @@
-package button;
+package main.java.button;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;

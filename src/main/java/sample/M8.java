@@ -1,4 +1,4 @@
-package sample;
+package main.java.sample;
 
 /**
  * @author 通天晓

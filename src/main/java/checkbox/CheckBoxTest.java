@@ -1,4 +1,4 @@
-package checkbox;
+package main.java.checkbox;
 
 import javafx.application.Application;
 import javafx.beans.value.ChangeListener;

@@ -1,4 +1,4 @@
-package mouse;
+package main.java.mouse;
 
 import javafx.application.Application;
 import javafx.event.EventHandler;

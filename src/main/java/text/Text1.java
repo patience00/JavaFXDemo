@@ -1,4 +1,4 @@
-package text;
+package main.java.text;
 
 import javafx.application.Application;
 import javafx.scene.Group;
@@ -8,7 +8,7 @@ import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
 /**
- * comment
+ * 文字旋转
  *
  * @author: 通天晓107
  * @review:
